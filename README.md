@@ -3,7 +3,7 @@
 **Computer Science Graduate | Python Developer | AI/ML Enthusiast**
 📍 Vijayawada, India | 📧 gurralagayatri2207@gmail.com | 📞 +91-6303812066
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatri-gurrala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?styhle=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-sowmya-gurrala-3953873a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gayatrigurrala)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurralagayatri2207@gmail.com)
 
@@ -122,7 +122,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gayatri-gurrala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gayatri-sowmya-gurrala-3953873a0/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurralagayatri2207@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gayatrigurrala)
 
